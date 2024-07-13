@@ -1,0 +1,11 @@
+{
+  "name": "purpleschool_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson010.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
